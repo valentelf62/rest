@@ -1,0 +1,12 @@
+terminal
+ambiente de desenvolvimento
+	open -a subl -e /Users/macbookpro/Documents/familia/luis/2017/Biblioteca/Trabalho/software/Django/projeto/registro.txt -e /Users/macbookpro/Documents/familia/luis/2017/Biblioteca/Trabalho/software/Django/projeto/sistema/inicio/sistema.txt 
+
+video de apoio
+	open -a quick -e /Users/macbookpro/Documents/familia/luis/2017/Biblioteca/Trabalho/software/Django/mp4/Paola_Katherine_Pacheco/video.mp4
+
+http de apoio
+open -a safari -e https://github.com/PKpacheco/meu-portfolio
+
+http meu repositorio
+open -a safari -e https://github.com/valentelf62
